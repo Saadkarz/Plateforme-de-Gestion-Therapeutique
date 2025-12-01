@@ -790,7 +790,7 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
 <div align="center">
 
-**Fait avec ❤️ et 🤖 par [Saad Karzazi](https://github.com/Saadkarz)**
+**Fait avec ❤️ et 🤖 par [Saad Karzouz](https://github.com/Saadkarz)**
 
 ⭐ **Si ce projet vous aide, n'oubliez pas de mettre une étoile !** ⭐
 
