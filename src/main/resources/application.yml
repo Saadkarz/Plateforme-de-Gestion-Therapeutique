@@ -1,0 +1,21 @@
+server:
+  port: 8080
+
+app:
+  ollama:
+    model: llama3.1
+    endpoint: http://localhost:11434
+  retrieval:
+    url: http://localhost:8000/retrieve
+    timeout: 30000
+
+spring:
+  main:
+    allow-bean-definition-overriding: true
+
+logging:
+  level:
+    root: INFO
+    com.therapist.ragchat: DEBUG
+    org.springframework.web: INFO
+    reactor.netty: INFO
